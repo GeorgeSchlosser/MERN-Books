@@ -13,7 +13,7 @@ module.exports = {
             })
             .then(results =>
                 results.data.items.filter(
-                    results =>
+                    result =>
                         result.volumeInfo.title &&
                         result.volumeInfo.infoLink &&
                         result.volumeInfo.authors &&
