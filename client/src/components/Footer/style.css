@@ -1,5 +1,5 @@
 .has-background-cyan {
-    background-color: #B4CDCD;
+    background-color: #6b90e6;
     height: 50px;
 }
 
@@ -19,6 +19,7 @@ a:hover {
 }
 
 .fa-github {
-    color: #571845;
+    /* color: #571845; */
+    color: black;
     padding-top: 10px;
 }
