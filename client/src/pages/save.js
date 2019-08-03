@@ -40,13 +40,13 @@ class Saved extends Component {
         <div className="row">
           <div className="col-8 col-centered">
             <div className="d-flex flex-row bd-highlight mb-3 justify-content-center align-items-center">
-              <div className="p-2 bd-highlight">
+              {/* <div className="p-2 bd-highlight">
                 <img
                   className="image-250"
                   src="/images/books.jpg"
                   alt="Google Books Search"
                 />
-              </div>
+              </div> */}
               <div className="p-2 bd-highlight">
                 <h1 className="heading-title mx-sm-3 mb-2">
                   Google Books
